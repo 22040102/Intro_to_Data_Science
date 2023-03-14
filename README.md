@@ -7,6 +7,9 @@ The zip file contains the 3 module assignments:
 - regression modelling,
 - clustering. 
 
+HOWEVER please also see these assignments held in a github repository: https://github.com/22040102/Intro_to_Data_Science
+
+
 The addition to the library of missing datasets talks about a need for an internationally linked missing persons dataset and talks about the process used in the UK. 
 
 The regression modelling file uses a dataset about bird strike incidents from variety of aircraft and operators which I found insightful being within the RAF myself.
